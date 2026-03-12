@@ -6,10 +6,10 @@ export default function Contact() {
       <div className="mx-auto max-w-7xl">
         <div className="mb-16 text-center">
           <h2 className="text-4xl font-bold tracking-tight text-white sm:text-5xl">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-zinc-400">
-            I'm currently open for new opportunities. Whether you have a question or just want to chat about data engineering, I'll try my best to get back to you!
+            I&apos;m currently open for new opportunities. Whether you have a question or just want to chat about data engineering, I&apos;ll try my best to get back to you!
           </p>
         </div>
 
